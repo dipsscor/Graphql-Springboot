@@ -1,5 +1,5 @@
-# graphql-java-spring-boot-example
-Sample app for my tutorial 
+# Graphql Springboot Example
+Sample app demonstarting graphql using Springboot.
 
 You'll need [Java 11].
 
